@@ -1,6 +1,6 @@
 # React Product Management Application
 
-This is a React application for managing products. It allows users to create, view, edit, and delete products.It also fetches product data from an API and saves it in local storage. The application uses `react-router-dom` for routing and `react-toastify` for displaying toast notifications. 
+This is a React application for managing products. It allows users to create, view, edit, and delete products.It also fetches product data from an *API* and saves it in local storage. The application uses `react-router-dom` for routing and `react-toastify` for displaying toast notifications. 
 
 ## Features
 
@@ -16,5 +16,5 @@ This is a React application for managing products. It allows users to create, vi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/react-product-management.git
-   cd react-product-management
+   git clone https://github.com/NaiveAbhay/Product-Management-with-React.git
+   
